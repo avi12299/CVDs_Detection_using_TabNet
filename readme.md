@@ -58,7 +58,7 @@ To predict cardiovascular diseases using TabNet with EDA, data preprocessing, fe
 ## ⚙️ Installation & Usage
 
 ```bash
-git clone https://github.com/yourusername/CVDs_Detection_TabNet.git
+git clone https://github.com/avi12299/CVDs_Detection_using_TabNet.git
 cd CVDs_Detection_TabNet
 
 # Create and Activate Virtual Environment
