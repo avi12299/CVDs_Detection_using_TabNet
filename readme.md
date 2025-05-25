@@ -7,7 +7,7 @@ This project presents a deep learning pipeline for detecting Cardiovascular Dise
 ## 📁 Folder Structure/
 
 - 📁 BRFSS2015_dataset/
-   -  heart_disease_health_indicators_BRFSS2015.csv
+   -  heart_disease_health_indicators_BRFSS2015.csv - contains the BRFSS2015 dataset used in this study.
 - 📓 Correlation_FS.ipynb
 - 📓 EDA.ipynb
 - 📄 LICENSE
