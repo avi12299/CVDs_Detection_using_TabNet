@@ -1,5 +1,9 @@
 # 🩺 Cardiovascular Disease Detection using TabNet
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-orange.svg)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 This project presents a deep learning pipeline for detecting Cardiovascular Disease (CVDs )using TabNet (Tabular-Network, developed by Google Research), data balancing methods (SMOTE/ADASYN), and correlation-based feature selection.
 
 
@@ -115,8 +119,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - 📧 **Email**: avinashkr1302@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/avi12299/CVDs_Detection_using_TabNet/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/avi12299/CVDs_Detection_using_TabNet/discussions)
 
+---
+
+<div align="center">
 
 **⭐ Star this repository if it helped you! ⭐**
 
 Made with ❤️ for advancing cardiovascular health through AI
+
+</div>
