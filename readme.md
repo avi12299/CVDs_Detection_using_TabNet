@@ -4,14 +4,15 @@ This project presents a deep learning pipeline for detecting Cardiovascular Dise
 
 
 
-## 📁 Folder Structure
-
-CVDs_Detection_TabNet/
-BRFSS2015_dataset/
-  heart_disease_health_indicators_BRFSS2015.csv
-Correlation_FS.ipynb
-EDA.ipynb
-README.md
+##CVDs_Detection_using_TabNet/
+│
+├── 📁 BRFSS2015_dataset/
+│   └── heart_disease_health_indicators_BRFSS2015.csv
+│
+├── 📓 Correlation_FS.ipynb
+├── 📓 EDA.ipynb
+├── 📄 LICENSE
+└── 📄 README.md
 
 
 ## 🎯 Objective
@@ -59,7 +60,7 @@ To predict cardiovascular diseases using TabNet with EDA, data preprocessing, fe
 
 ```bash
 git clone https://github.com/avi12299/CVDs_Detection_using_TabNet.git
-cd CVDs_Detection_TabNet
+cd CVDs_Detection_using_TabNet
 
 # Create and Activate Virtual Environment
 # For windows:
