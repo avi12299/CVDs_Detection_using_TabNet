@@ -5,14 +5,13 @@ This project presents a deep learning pipeline for detecting Cardiovascular Dise
 
 
 ## 📁 Folder Structure/
-│
-├── 📁 BRFSS2015_dataset/
-│   └── heart_disease_health_indicators_BRFSS2015.csv
-│
-├── 📓 Correlation_FS.ipynb
-├── 📓 EDA.ipynb
-├── 📄 LICENSE
-└── 📄 README.md
+
+- 📁 BRFSS2015_dataset/
+   -  heart_disease_health_indicators_BRFSS2015.csv
+- 📓 Correlation_FS.ipynb
+- 📓 EDA.ipynb
+- 📄 LICENSE
+- 📄 README.md
 
 
 ## 🎯 Objective
