@@ -3,6 +3,7 @@
 This project presents a deep learning pipeline for detecting Cardiovascular Disease (CVDs )using TabNet (Tabular-Network, developed by Google Research), data balancing methods (SMOTE/ADASYN), and correlation-based feature selection.
 
 
+
 ## 📁 Folder Structure
 
 CVDs_Detection_TabNet/
