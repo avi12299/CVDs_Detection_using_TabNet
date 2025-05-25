@@ -82,3 +82,14 @@ jupyter notebook
 The notebook interface will open in your default web browser. 
 Open EDA.ipynb or Correlation_FS.ipynb to get started
 
+📚 Citation
+If you use this project in your research, please cite:
+bibtex@article{,
+  title={Cardiovascular Disease Detection using TabNet:
+Attentive Interpretable Tabular Learning
+},
+  author={Avinash kumar, Sangeeta sharma, Ram Prakash Sharma},
+  journal={CVR2025},
+  year={2025},
+  
+}
