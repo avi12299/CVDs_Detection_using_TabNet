@@ -79,5 +79,6 @@ pip install notebook
 jupyter notebook
 ```
 
-# The notebook interface will open in your default web browser. Open EDA.ipynb or Correlation_FS.ipynb to get started
+The notebook interface will open in your default web browser. 
+Open EDA.ipynb or Correlation_FS.ipynb to get started
 
