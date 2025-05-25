@@ -84,12 +84,39 @@ Open EDA.ipynb or Correlation_FS.ipynb to get started
 
 📚 Citation
 If you use this project in your research, please cite:
+```
 bibtex@article{,
   title={Cardiovascular Disease Detection using TabNet:
 Attentive Interpretable Tabular Learning
 },
   author={Avinash kumar, Sangeeta sharma, Ram Prakash Sharma},
   journal={CVR2025},
-  year={2025},
-  
+  year={2025}
 }
+```
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👥 Authors
+
+- **Avinash kumar** - *Initial work* - [@avi12299](https://github.com/avi12299)
+
+## 🙏 Acknowledgments
+
+- PyTorch Lightning team for the excellent framework
+- Contributors to the BRFSS datasets
+- Open-source community for tool development
+
+
+## 📞 Support
+
+For support and questions:
+- 📧 **Email**: avinashkr1302@gmail.com
+
+
+**⭐ Star this repository if it helped you! ⭐**
+
+Made with ❤️ for advancing cardiovascular health through AI
