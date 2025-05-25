@@ -4,7 +4,7 @@ This project presents a deep learning pipeline for detecting Cardiovascular Dise
 
 
 
-##CVDs_Detection_using_TabNet/
+## 📁 Folder Structure/
 │
 ├── 📁 BRFSS2015_dataset/
 │   └── heart_disease_health_indicators_BRFSS2015.csv
